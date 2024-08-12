@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<!-- This XML is used when Extent Report is generated-->
+
+<!-- 
+<suite name="Suite">
+<listeners>
+<listener class-name="Utility.Listeners"></listener>
+</listeners>  
+
+  <test thread-count="5" name="Error Validation Test">
+    <classes>
+      <class name="appiumautomation.loginPage"/>
+      <class name="appiumautomation.EndToEndTest"/>
+    </classes>
+  </test></suite>  -->
+
+<!-- This XML is used when Allure Report is generated-->
+
+<!-- --><suite name="Suite">
+	
+    <!-- Test classes -->
+    <listeners>
+        <listener class-name="Utility.AllureListener"/>
+    </listeners>
+    <test name="Test">
+        <classes>
+            <class name="appiumautomation.loginPage"/>
+            <class name="appiumautomation.EndToEndTest"/>
+        </classes>
+    </test>
+</suite>  
+
+
+

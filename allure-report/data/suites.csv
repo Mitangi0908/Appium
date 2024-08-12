@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4242","loginWithIncorrectUsernameAndPassword","Suite","Thu Aug 08 18:13:55 IST 2024","passed","Thu Aug 08 18:13:59 IST 2024","appiumautomation.loginPage","Test","appiumautomation.loginPage","loginWithIncorrectUsernameAndPassword"
+"","6612","loginWithCorrectUsernameAndPassword","Suite","Thu Aug 08 18:13:59 IST 2024","passed","Thu Aug 08 18:14:06 IST 2024","appiumautomation.loginPage","Test","appiumautomation.loginPage","loginWithCorrectUsernameAndPassword"
+"","40000","checkoutProduct","Suite","Thu Aug 08 18:14:26 IST 2024","passed","Thu Aug 08 18:15:06 IST 2024","appiumautomation.EndToEndTest","Test","appiumautomation.EndToEndTest","checkoutProduct"
+"","3527","loginWithoutPassword","Suite","Thu Aug 08 18:13:51 IST 2024","passed","Thu Aug 08 18:13:55 IST 2024","appiumautomation.loginPage","Test","appiumautomation.loginPage","loginWithoutPassword"
+"","4503","loginWithoutUsername","Suite","Thu Aug 08 18:13:47 IST 2024","failed","Thu Aug 08 18:13:51 IST 2024","appiumautomation.loginPage","Test","appiumautomation.loginPage","loginWithoutUsername"

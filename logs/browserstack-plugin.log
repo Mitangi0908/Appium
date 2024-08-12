@@ -1,0 +1,59 @@
+17:58:59.395 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+17:58:59.489 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=NpbCKyJ3AEZGCp1Vns3Z, groupId=com.browserstack, BROWSERSTACK_APP=bs://sample.app, BROWSERSTACK_FRAMEWORK=testng, version=1.0, PROJECT_NAME=BrowserStack Sample, archetypeVersion=1.4, archetypeGroupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=mitangipatel_aqCvfl, BUILD_NAME=browserstack build, BROWSERSTACK_SOURCE=testng:appium-eclipse:v1.0.8]
+18:09:24.043 [Worker-101: Launching loginPage] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+18:09:24.046 [Worker-101: Launching loginPage] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+18:09:24.057 [Worker-101: Launching loginPage] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:09:24.062 [Worker-101: Launching loginPage] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+18:10:26.489 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:10:26.490 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:10:26.493 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppiumFramework
+18:10:26.494 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:10:26.494 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:10:26.498 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppiumFramework
+18:11:11.347 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:11:11.348 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:11:11.351 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppiumFramework
+18:11:11.352 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:11:11.353 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:11:11.356 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppiumFramework
+18:11:14.009 [Worker-103: Launching loginPage] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+18:11:14.011 [Worker-103: Launching loginPage] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+18:11:14.014 [Worker-103: Launching loginPage] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:11:14.015 [Worker-103: Launching loginPage] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+18:12:10.524 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:12:10.524 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:12:10.527 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppiumFramework
+18:12:10.529 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:12:10.529 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:12:10.533 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppiumFramework
+18:12:13.532 [Worker-104: Launching loginPage] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+18:12:13.535 [Worker-104: Launching loginPage] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:12:13.536 [Worker-104: Launching loginPage] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+18:13:02.030 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:13:02.030 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:13:02.034 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppiumFramework
+18:13:02.036 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:13:02.036 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:13:02.040 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppiumFramework
+18:13:04.839 [Worker-107: Launching loginPage] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+18:13:04.840 [Worker-107: Launching loginPage] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+18:13:04.841 [Worker-107: Launching loginPage] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+18:13:04.844 [Worker-107: Launching loginPage] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:13:04.846 [Worker-107: Launching loginPage] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+18:15:22.699 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:15:22.699 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:15:22.702 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppiumFramework
+18:15:22.703 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:15:22.703 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:15:22.705 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppiumFramework
+18:15:25.901 [Worker-106: Launching loginPage] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+18:15:25.902 [Worker-106: Launching loginPage] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+18:15:25.906 [Worker-106: Launching loginPage] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:15:25.909 [Worker-106: Launching loginPage] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {BROWSERSTACK_EXEC_SOURCE=eclipse/1.0.8}
+18:40:31.727 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+18:40:31.727 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:40:31.730 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/AppiumFramework
+18:40:31.732 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+18:40:31.732 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+18:40:31.735 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/AppiumFramework
+19:11:19.169 [Framework stop - Equinox Container: f4b28fd5-98a5-4701-86a0-9e98d444ca8b] INFO  c.b.BrowserStackPluginActivator - Stopping BrowserStack Plugin...

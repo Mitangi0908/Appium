@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="Utility.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Error Validation Test(failed)">
+    <classes>
+      <class name="appiumautomation.EndToEndTest">
+        <methods>
+          <include name="ConfigureAppium"/>
+          <include name="tearDown"/>
+          <include name="checkoutProduct"/>
+        </methods>
+      </class> <!-- appiumautomation.EndToEndTest -->
+      <class name="appiumautomation.loginPage">
+        <methods>
+          <include name="loginWithoutPassword"/>
+          <include name="ConfigureAppium"/>
+          <include name="loginWithIncorrectUsernameAndPassword"/>
+          <include name="loginWithoutUsername"/>
+          <include name="loginWithCorrectUsernameAndPassword"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- appiumautomation.loginPage -->
+    </classes>
+  </test> <!-- Error Validation Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
